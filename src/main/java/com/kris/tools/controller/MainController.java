@@ -4,7 +4,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * @Description:
+ * @Description: 项目主服务
  * @Author: KRIS
  * @Date: 2020/5/2
  **/
